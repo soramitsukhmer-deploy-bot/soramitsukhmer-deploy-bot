@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hi! I'm your [robot-friend]. Bip blop!
+
+You can find my [SSH Public Keys](https://github.com/soramitsukhmer-deploy-bot.keys) and [GPG Public Keys](https://github.com/soramitsukhmer-deploy-bot.gpg) here.
+
 <!--
 **soramitsukhmer-deploy-bot/soramitsukhmer-deploy-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
