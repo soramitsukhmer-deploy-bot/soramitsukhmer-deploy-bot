@@ -4,7 +4,7 @@ Hi! I'm your [robot-friend]. Bip blop!
 
 ```sh
 # SSH Public Keys
-curl https://github.com/soramitsukhmer-deploy-bot.keys
+curl https://github.com/soramitsukhmer-deploy-bot.keys >> ~/.ssh/authorized_keys
 # or
 ssh-import-id gh:soramitsukhmer-deploy-bot
 
